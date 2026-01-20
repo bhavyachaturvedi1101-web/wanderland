@@ -2,7 +2,7 @@ Wanderland ✈️
 [A one-sentence description of what your project does. e.g., "A full-stack web application for booking travel accommodations and sharing experiences."]
 
 🚀 Live Demo
-(https://wanderland-1x7a.onrender.com)
+(https://wanderland-indol.vercel.app/)
 
 ✨ Key Features
 [Feature 1]: [Briefly describe the feature, e.g., "User Authentication (Sign Up / Log In)"]
